@@ -1,8 +1,8 @@
 # AnimatedTabBar 
 this is small lib which will allow you to create a tab bar with cool animations.
 
-´´´´java
-AnimatedTab tab1 = new AnimatedTab("Home ", FontImage.MATERIAL_HOME);
+```java
+        AnimatedTab tab1 = new AnimatedTab("Home ", FontImage.MATERIAL_HOME);
         Form hi = new Form("Hi World", new BorderLayout());
         AnimatedTab tab2 = new AnimatedTab("Profile", FontImage.MATERIAL_PERSON);
         AnimatedTab tab3 = new AnimatedTab("About", FontImage.MATERIAL_INFO);
